@@ -32,4 +32,12 @@ Become an AI Full Stack Developer and build AI-powered products.
 
 ## Progress
 
-Day 1 Started: June 2026
+## 📈 Progress
+
+- [x] Git Installed
+- [x] GitHub Setup
+- [x] First Repository Created
+- [ ] Python Basics
+- [ ] SQL Basics
+- [ ] React Basics
+- [ ] FastAPI Basics
